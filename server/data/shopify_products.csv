@@ -1,0 +1,30 @@
+Handle,Title,Body (HTML),Vendor,Tags,Published,Option1 Name,Option1 Value,Variant SKU,Variant Grams,Variant Inventory Tracker,Variant Inventory Qty,Variant Inventory Policy,Variant Fulfillment Service,Variant Price,Variant Compare-at Price,Variant Requires Shipping,Variant Taxable,Cost per item,Status
+gpi-black-salt-200g,GPI Black Salt 200g,"<p>High quality Black Salt from GPI.</p>",GPI,Salt,TRUE,Title,Default Title,GPI-BS-200,200,shopify,100,deny,manual,45,,TRUE,TRUE,45,active
+gpi-chaat-masala-100g,GPI Chaat Masala 100g,"<p>Authentic Chaat Masala from GPI.</p>",GPI,Masala,TRUE,Title,Default Title,GPI-CHM-100,100,shopify,100,deny,manual,65,,TRUE,TRUE,65,active
+gpi-chana-masala-100g,GPI Chana Masala 100g,"<p>Delicious Chana Masala from GPI.</p>",GPI,Masala,TRUE,Title,Default Title,GPI-CNM-100,100,shopify,100,deny,manual,65,,TRUE,TRUE,65,active
+gpi-chicken-masala-100g,GPI Chicken Masala 100g,"<p>Premium Chicken Masala from GPI.</p>",GPI,Masala,TRUE,Title,Default Title,GPI-CKM-100,100,shopify,100,deny,manual,75,,TRUE,TRUE,75,active
+gpi-coriander-powder,GPI Coriander Powder,"<p>Pure Coriander Powder from GPI.</p>",GPI,Spices,TRUE,Title,Default Title,GPI-CP,250,shopify,100,deny,manual,55,,TRUE,TRUE,55,active
+gpi-dal-makhani-100g,GPI Dal Makhani 100g,"<p>Rich Dal Makhani Masala from GPI.</p>",GPI,Masala,TRUE,Title,Default Title,GPI-DM-100,100,shopify,100,deny,manual,65,,TRUE,TRUE,65,active
+gpi-egg-curry-100g,GPI Egg Curry 100g,"<p>Tasty Egg Curry Masala from GPI.</p>",GPI,Masala,TRUE,Title,Default Title,GPI-EC-100,100,shopify,100,deny,manual,65,,TRUE,TRUE,65,active
+gpi-garam-masala-100g,GPI Garam Masala 100g,"<p>Classic Garam Masala from GPI.</p>",GPI,Masala,TRUE,Title,Default Title,GPI-GM-100,100,shopify,100,deny,manual,85,,TRUE,TRUE,85,active
+gpi-gold-detergent-powder,GPI Gold Detergent Powder,"<p>Powerful Gold Detergent Powder from GPI.</p>",GPI,Detergent,TRUE,Title,Default Title,GPI-GDP,1000,shopify,100,deny,manual,120,,TRUE,TRUE,120,active
+gpi-himalayan-pink-salt-1kg,GPI Himalayan Pink Salt 1Kg,"<p>Natural Himalayan Pink Salt from GPI.</p>",GPI,Salt,TRUE,Title,Default Title,GPI-HPS-1K,1000,shopify,100,deny,manual,95,,TRUE,TRUE,95,active
+gpi-himalayan-pink-salt,GPI Himalayan Pink Salt,"<p>Natural Himalayan Pink Salt from GPI.</p>",GPI,Salt,TRUE,Title,Default Title,GPI-HPS,500,shopify,100,deny,manual,65,,TRUE,TRUE,65,active
+gpi-ktchen-king-100g,GPI Kitchen King 100g,"<p>Versatile Kitchen King Masala from GPI.</p>",GPI,Masala,TRUE,Title,Default Title,GPI-KK-100,100,shopify,100,deny,manual,70,,TRUE,TRUE,70,active
+gpi-paneer-masala-100g,GPI Paneer Masala 100g,"<p>Flavorful Paneer Masala from GPI.</p>",GPI,Masala,TRUE,Title,Default Title,GPI-PM-100,100,shopify,100,deny,manual,65,,TRUE,TRUE,65,active
+gpi-pav-bhaji-100g,GPI Pav Bhaji 100g,"<p>Authentic Pav Bhaji Masala from GPI.</p>",GPI,Masala,TRUE,Title,Default Title,GPI-PB-100,100,shopify,100,deny,manual,65,,TRUE,TRUE,65,active
+gpi-premium-detergent-powder,GPI Premium Detergent Powder,"<p>Quality Premium Detergent Powder from GPI.</p>",GPI,Detergent,TRUE,Title,Default Title,GPI-PDP,1000,shopify,100,deny,manual,150,,TRUE,TRUE,150,active
+gpi-raita-masala-100g,GPI Raita Masala 100g,"<p>Refreshing Raita Masala from GPI.</p>",GPI,Masala,TRUE,Title,Default Title,GPI-RM-100,100,shopify,100,deny,manual,60,,TRUE,TRUE,60,active
+gpi-red-chilli-powder,GPI Red Chilli Powder,"<p>Pure Red Chilli Powder from GPI.</p>",GPI,Spices,TRUE,Title,Default Title,GPI-RCP,250,shopify,100,deny,manual,75,,TRUE,TRUE,75,active
+gpi-sambhar-masala-100g,GPI Sambhar Masala 100g,"<p>Traditional Sambhar Masala from GPI.</p>",GPI,Masala,TRUE,Title,Default Title,GPI-SM-100,100,shopify,100,deny,manual,65,,TRUE,TRUE,65,active
+gpi-soya-chaap-masala-100g,GPI Soya Chaap Masala 100g,"<p>Special Soya Chaap Masala from GPI.</p>",GPI,Masala,TRUE,Title,Default Title,GPI-SCM-100,100,shopify,100,deny,manual,70,,TRUE,TRUE,70,active
+gpi-super-detergent-powder,GPI Super Detergent Powder,"<p>Advanced Super Detergent Powder from GPI.</p>",GPI,Detergent,TRUE,Title,Default Title,GPI-SDP,1000,shopify,100,deny,manual,100,,TRUE,TRUE,100,active
+gpi-turmeric-powder,GPI Turmeric Powder,"<p>Pure Turmeric Powder from GPI.</p>",GPI,Spices,TRUE,Title,Default Title,GPI-TP,250,shopify,100,deny,manual,50,,TRUE,TRUE,50,active
+gtm-black-salt-200g,GTM Black Salt 200g,"<p>High quality Black Salt from GTM.</p>",GTM,Salt,TRUE,Title,Default Title,GTM-BS-200,200,shopify,100,deny,manual,40,,TRUE,TRUE,40,active
+gtm-black-salt-500g-1,GTM Black Salt 500g(1),"<p>High quality Black Salt from GTM.</p>",GTM,Salt,TRUE,Title,Default Title,GTM-BS-500-1,500,shopify,100,deny,manual,75,,TRUE,TRUE,75,active
+gtm-black-salt-500g,GTM Black Salt 500g,"<p>High quality Black Salt from GTM.</p>",GTM,Salt,TRUE,Title,Default Title,GTM-BS-500,500,shopify,100,deny,manual,75,,TRUE,TRUE,75,active
+gtm-crushed-pink-salt-1kg,GTM Crushed Pink Salt 1Kg,"<p>Premium Crushed Pink Salt from GTM.</p>",GTM,Salt,TRUE,Title,Default Title,GTM-CPS-1K,1000,shopify,100,deny,manual,110,,TRUE,TRUE,110,active
+gtm-himalayan-pink-salt-1kg,GTM Himalayan Pink Salt 1Kg,"<p>Natural Himalayan Pink Salt from GTM.</p>",GTM,Salt,TRUE,Title,Default Title,GTM-HPS-1K,1000,shopify,100,deny,manual,90,,TRUE,TRUE,90,active
+gtm-himalayan-pink-salt-200g,GTM Himalayan Pink Salt 200g,"<p>Natural Himalayan Pink Salt from GTM.</p>",GTM,Salt,TRUE,Title,Default Title,GTM-HPS-200,200,shopify,100,deny,manual,45,,TRUE,TRUE,45,active
+gtm-himalayan-rock-salt-1kg,GTM Himalayan Rock Salt 1Kg,"<p>Natural Himalayan Rock Salt from GTM.</p>",GTM,Salt,TRUE,Title,Default Title,GTM-HRS-1K,1000,shopify,100,deny,manual,120,,TRUE,TRUE,120,active
+gtm-himalayan-rock-salt-200g,GTM Himalayan Rock Salt 200g,"<p>Natural Himalayan Rock Salt from GTM.</p>",GTM,Salt,TRUE,Title,Default Title,GTM-HRS-200,200,shopify,100,deny,manual,50,,TRUE,TRUE,50,active
